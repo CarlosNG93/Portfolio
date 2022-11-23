@@ -1,0 +1,63 @@
+import {BiCheck} from 'react-icons/bi'
+import React from 'react'
+import './services.css'
+
+const Services = () => {
+  return (
+    <section id='services'>
+      <h5>What I Offer</h5>
+      <h2>Services</h2>
+
+      <div className="container services__container">
+        <article className="service">
+          <div className="service__head">
+            <h3>UI/UX Design</h3>
+          </div>
+
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>High-fidelity Prototype</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Responsive Web Design</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Cross-Platform Compatibility</p>
+            </li>
+          </ul>
+        </article>
+        {/* END OF UI/UX */}
+        <article className="service">
+          <div className="service__head">
+            <h3>Web Development</h3>
+          </div>
+
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Clean Code</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Best practices</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Software Redesign</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Testing</p>
+            </li>
+          </ul>
+        </article>
+        {/* END OF WEB DEVELOPMENT */}
+      </div>
+    </section>
+  )
+}
+
+export default Services
