@@ -60,7 +60,7 @@ const Portfolio = () => {
           </div>
           <h3>ECommerce App</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/CarlosNG93/pokedex" className='btn'>Github</a>
+            <a href="https://github.com/CarlosNG93/ecommerce" className='btn'>Github</a>
             <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
