@@ -61,7 +61,7 @@ const Portfolio = () => {
           <h3>ECommerce App</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/CarlosNG93/ecommerce" className='btn'>Github</a>
-            <a href="https://ecommerce-one-gamma.vercel.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://ecommerce-charli93.vercel.app" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
