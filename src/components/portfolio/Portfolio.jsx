@@ -31,7 +31,7 @@ const Portfolio = () => {
           <h3>Spotify 2.0 Clone</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/CarlosNG93/spotifyClone" className='btn'>Github</a>
-            <a href="https://spotify-clone-charli93.vercel.app" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://spotify-clone-psi-rose.vercel.app" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -40,7 +40,7 @@ const Portfolio = () => {
           </div>
           <h3>Youtube Clone</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/CarlosNG93/pokedex" className='btn'>Github</a>
+            <a href="https://github.com/CarlosNG93/youtube_clone" className='btn'>Github</a>
             <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
