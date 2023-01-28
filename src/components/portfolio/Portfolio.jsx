@@ -41,7 +41,7 @@ const Portfolio = () => {
           <h3>Youtube Clone</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/CarlosNG93/youtube_clone" className='btn'>Github</a>
-            <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://polite-lollipop-6f4273.netlify.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
