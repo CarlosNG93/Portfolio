@@ -70,8 +70,8 @@ const Portfolio = () => {
           </div>
           <h3>Admin Dashboard App</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/CarlosNG93/pokedex" className='btn'>Github</a>
-            <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/CarlosNG93/dashboard" className='btn'>Github</a>
+            <a href="https://dashboard-neon-alpha.vercel.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
       </div>
