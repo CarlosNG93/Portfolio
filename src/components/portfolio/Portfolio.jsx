@@ -50,8 +50,8 @@ const Portfolio = () => {
           </div>
           <h3>Fitness Exercises App</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/CarlosNG93/pokedex" className='btn'>Github</a>
-            <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/CarlosNG93/fitness" className='btn'>Github</a>
+            <a href="https://fitness-blush.vercel.app/exercise/0001" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
