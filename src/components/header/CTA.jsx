@@ -1,4 +1,4 @@
-import CV from '../../assets/CNG Act.pdf'
+import CV from '../../assets/CNG2 Act.pdf'
 import React from 'react'
 
 const CTA = () => {
